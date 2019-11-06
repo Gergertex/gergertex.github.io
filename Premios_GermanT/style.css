@@ -1,0 +1,111 @@
+@charset "UTF-8";
+body {
+	background-color:#000;
+	padding:0;
+	margin:0;
+}
+
+#header {
+	font-size: xx-large;
+	text-align: left;
+	position: fixed;
+	background-color: #340F0F;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-style: italic;
+	width: 100%;
+	height: auto;
+	top: 0;
+	left: 0;
+	opacity: 0.85;
+	color: #FFFFFF;
+	margin-left: px;
+}
+nav {
+	width: 80%;
+	margin: 0 auto;
+	max-width: 1024px;
+	position: relative;
+}
+
+nav li {
+	display: inline-block;
+	color: #FFFFFF;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+nav ul {
+	margin: 0;
+	padding-top: 20px;
+	padding-right: 5px;
+	text-align: right;
+}
+nav a {
+	padding: 10px 10px 10px 10px;
+	display: block;
+	text-decoration: none;
+		color:#fff;
+	font-size: 2em; 
+}
+nav a:hover {
+	color:#faa;
+	background-color: #333;
+}
+nav a:active {
+	color: #f00;
+}
+nav a:visited {
+	color: #ccc;
+}
+#hero img {
+	width: 99%;
+	height: 5%;
+	padding-top: 0.5%;
+	padding-right: 0.5%;
+	padding-bottom: 0.5%;
+	padding-left: 0.5%;
+}
+#hero p {
+	color: #FFFFFF;
+	text-align: center;
+	background-color: #3E1213;
+	padding-left: 2%;
+	padding-top: 2%;
+	padding-right: 2%;
+	padding-bottom: 2%;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+footer {
+	background-color: #6B3A3B;
+	text-align: right;
+} 
+main footer img {
+	position: absolute;
+	right: 0%;
+}
+.content {
+	color: #FFFFFF;
+	text-align: center;
+	font-size: xx-large;
+}
+#pic1 img {
+	text-align: center;
+	padding-left: 310px;
+}
+#pic2 img {
+	padding-left: 310px;
+}
+#pic3 img {
+	padding-left: 310px;
+}
+#pic4 img {
+	padding-left: 310px;
+}
+.content2 {
+	color: #FFFFFF;
+	font-size: large;
+	text-align: justify;
+	background-color: #7D1F21;
+	padding-top: 5%;
+	padding-right: 5%;
+	padding-bottom: 5%;
+	padding-left: 5%;
+}
