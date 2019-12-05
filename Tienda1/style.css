@@ -1,0 +1,63 @@
+body {
+	background-color: black;
+	font-family:Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana," sans-serif";
+}
+
+.azuldark {
+	background-color: darkgoldenrod;
+	font-size: x-large;
+	line-height: 2.95cm;
+	color: antiquewhite;
+	font-family:Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana," sans-serif";
+	height: auto;
+	width: auto;
+	padding-top: 7%;
+}
+
+.rosa { background-color: darkgoldenrod;
+	text-align: center;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	font-size: 1cm;
+	font-family:Segoe, Segoe UI, DejaVu Sans, Trebuchet MS, Verdana," sans-serif";
+}
+
+.naranja { background-color: goldenrod;
+}
+
+.azul { background-color: goldenrod;
+	padding-top: 2.5%;
+	padding-bottom: 2%;
+}
+
+.violeta { background-color: darkgoldenrod;
+	padding-top: 2.5%;
+	padding-bottom: 2%;
+}
+
+.navbar {
+	background-color:goldenrod!important; 
+	position: static;
+}
+
+.nav-link {
+	color:antiquewhite !important;
+
+}
+
+.btn {
+	background-color: antiquewhite !important;
+	
+}
+
+.card-text {
+	text-align: center;
+
+}
+
+footer {
+	background-color: goldenrod;
+	text-align: right;
+	background-size: cover;
+
+}
