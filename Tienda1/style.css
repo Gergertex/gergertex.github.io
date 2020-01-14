@@ -61,3 +61,20 @@ footer {
 	background-size: cover;
 
 }
+
+.jumbotron {
+	background-color:antiquewhite !important;
+}
+
+.btn { color: black !important; 
+}
+
+iframe {
+	padding-left: 5%;
+	padding-top: 5%;
+	
+}
+
+.row {
+	text-align: center;
+}
