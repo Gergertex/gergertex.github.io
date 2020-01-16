@@ -1,0 +1,44 @@
+body {
+	background-color: antiquewhite;
+}
+
+.row {
+	text-align: center;
+	border-color: #3A3B2F;
+}
+
+.list-group-item {
+	background-color:antiquewhite;
+	left: 0%;
+	border-color: darkgoldenrod;
+}
+
+th {
+	border-color: darkgoldenrod !important;
+}
+
+td {
+	border-color: darkgoldenrod !important;
+}
+
+.st0:hover {
+	fill: darkgoldenrod;
+}
+
+.st0 {
+	fill: none;
+	stroke: #000;
+}
+
+.fa-wind {
+	color: darkgoldenrod !important;
+}
+
+.fa-fan {
+	color: darkgoldenrod !important;
+}
+
+.navbar {
+	background-color: bisque !important;
+	border-color: darkgoldenrod !important;
+}
